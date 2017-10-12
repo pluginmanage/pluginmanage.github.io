@@ -97,3 +97,11 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 #    }
 #]
 
+deploy:
+
+     type: git
+
+     repo: https://github.com/leopardpan/leopardpan.github.io.git
+
+     branch: master
+
